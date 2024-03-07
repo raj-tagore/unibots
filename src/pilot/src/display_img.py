@@ -9,7 +9,7 @@ class ImageSubscriber:
     def __init__(self):
         rospy.init_node('image_subscriber', anonymous=True)
         self.bridge = CvBridge()
-        self.image_sub = rospy.Subscriber('/camera/rgb/image_raw', Image, self.callback)
+        self.image_sub = rospy.Subscriber('/--add topic here--', Image, self.callback)
 
     def callback(self, data):
         try:

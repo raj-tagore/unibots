@@ -1,2 +1,2 @@
-pilot
+dolphin:pilot
 -DCATKIN_DEVEL_PREFIX=/home/rajtagore/unibotsuk24_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rajtagore/unibotsuk24_ws/install -G Unix Makefiles

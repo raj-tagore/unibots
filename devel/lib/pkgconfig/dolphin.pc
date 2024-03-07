@@ -1,0 +1,8 @@
+prefix=/home/rajtagore/unibotsuk24_ws/devel
+
+Name: dolphin
+Description: Description of dolphin
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
