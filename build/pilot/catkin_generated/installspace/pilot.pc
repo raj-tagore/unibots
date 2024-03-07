@@ -1,0 +1,8 @@
+prefix=/home/rajtagore/unibotsuk24_ws/install
+
+Name: pilot
+Description: Description of pilot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
